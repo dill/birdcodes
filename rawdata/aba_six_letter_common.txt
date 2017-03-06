@@ -1,0 +1,1216 @@
+SIX-LETTER CODES FOR ABA CHECKLIST SPECIES
+
+DUCKS, GEESE, and SWANS
+
+BBWHDU    Black-bellied Whistling-Duck
+FUWHDU    Fulvous Whistling-Duck
+TABEGO    Taiga Bean-Goose
+TUBEGO    Tundra Bean-Goose
+PIFOGO    Pink-footed Goose
+GRAGOO    Graylag Goose
+GWFRGO    Greater White-fronted Goose
+LWFRGO    Lesser White-fronted Goose
+EMPGOO    Emperor Goose
+SNOGOO    Snow Goose
+ROSGOO    Ross's Goose
+BRANT     Brant 
+BARGOO    Barnacle Goose
+CACGOO    Cackling Goose
+CANGOO    Canada Goose
+MUTSWA    Mute Swan
+TRUSWA    Trumpeter Swan
+TUNSWA    Tundra Swan
+WHOSWA    Whooper Swan
+MUSDUC    Muscovy Duck
+WOODUC    Wood Duck
+GADWAL    Gadwall
+FALDUC    Falcated Duck
+EURWIG    Eurasian Wigeon
+AMEWIG    American Wigeon
+AMBLDU    American Black Duck
+MALLAR    Mallard
+MOTDUC    Mottled Duck
+ESBIDU    Eastern Spot-billed Duck
+BLWITE    Blue-winged Teal
+CINTEA    Cinnamon Teal
+NORSHO    Northern Shoveler
+WHCHPI    White-cheeked Pintail
+NORPIN    Northern Pintail
+GARGAN    Garganey
+BAITEA    Baikal Teal
+GRWITE    Green-winged Teal
+CANVAS    Canvasback
+REDHEA    Redhead
+COMPOC    Common Pochard
+RINEDU    Ring-necked Duck
+TUFDUC    Tufted Duck
+GRESCA    Greater Scaup
+LESSCA    Lesser Scaup
+STEEID    Steller's Eider
+SPEEID    Spectacled Eider
+KINEID    King Eider
+COMEID    Common Eider
+HARDUC    Harlequin Duck
+LABDUC    Labrador Duck
+SURSCO    Surf Scoter
+WHWISC    White-winged Scoter
+BLASCO    Black Scoter
+LOTADU    Long-tailed Duck
+BUFFLE    Bufflehead
+COMGOL    Common Goldeneye
+BARGOL    Barrow's Goldeneye
+SMEW      Smew  
+HOOMER    Hooded Merganser
+COMMER    Common Merganser
+REBRME    Red-breasted Merganser
+MASDUC    Masked Duck
+RUDDUC    Ruddy Duck
+
+CURASSOWS and GUANS
+
+PLACHA    Plain Chachalaca
+
+PARTRIDGES, GROUSE, TURKEYS, and OLD WORLD QUAIL
+
+CHUKAR    Chukar
+HIMSNO    Himalayan Snowcock
+GRAPAR    Gray Partridge
+RINEPH    Ring-necked Pheasant
+RUFGRO    Ruffed Grouse
+GRSAGR    Greater Sage-Grouse
+GUSAGR    Gunnison Sage-Grouse
+SPRGRO    Spruce Grouse
+WILPTA    Willow Ptarmigan
+ROCPTA    Rock Ptarmigan
+WHTAPT    White-tailed Ptarmigan
+DUSGRO    Dusky Grouse
+SOOGRO    Sooty Grouse
+SHTAGR    Sharp-tailed Grouse
+GRPRCH    Greater Prairie-Chicken
+LEPRCH    Lesser Prairie-Chicken
+WILTUR    Wild Turkey
+
+NEW WORLD QUAIL
+
+MOUQUA    Mountain Quail
+SCAQUA    Scaled Quail
+CALQUA    California Quail
+GAMQUA    Gambel's Quail
+NORBOB    Northern Bobwhite
+MONQUA    Montezuma Quail
+
+LOONS
+
+RETHLO    Red-throated Loon
+ARCLOO    Arctic Loon
+PACLOO    Pacific Loon
+COMLOO    Common Loon
+YEBILO    Yellow-billed Loon
+
+GREBES
+
+LEAGRE    Least Grebe
+PIBIGR    Pied-billed Grebe
+HORGRE    Horned Grebe
+RENEGR    Red-necked Grebe
+EARGRE    Eared Grebe
+WESGRE    Western Grebe
+CLAGRE    Clark's Grebe
+
+FLAMINGOS
+
+AMEFLA    American Flamingo
+
+ALBATROSSES
+
+YENOAL    Yellow-nosed Albatross
+SHYALB    Shy Albatross
+BLBRAL    Black-browed Albatross
+LIMAAL    Light-mantled Albatross
+WANALB    Wandering Albatross
+LAYALB    Laysan Albatross
+BLFOAL    Black-footed Albatross
+SHTAAL    Short-tailed Albatross
+ 
+SHEARWATERS and PETRELS
+
+NORFUL    Northern Fulmar
+GRWIPE    Great-winged Petrel
+HERPET    Herald Petrel
+MURPET    Murphy's Petrel
+MOTPET    Mottled Petrel
+BERPET    Bermuda Petrel
+BLCAPE    Black-capped Petrel
+FEAPET    Fea's/Zino's Petrel
+GALPET    Galapagos/Hawaiian Petrel
+COOPET    Cook's Petrel
+STEPET    Stejneger's Petrel
+BULPET    Bulwer's Petrel
+WHCHPE    White-chinned Petrel
+PARPET    Parkinson's Petrel
+STRSHE    Streaked Shearwater
+CORSHE    Cory's Shearwater
+CAVESH    Cape Verde Shearwater
+PIFOSH    Pink-footed Shearwater
+FLFOSH    Flesh-footed Shearwater
+GRESHE    Great Shearwater
+WETASH    Wedge-tailed Shearwater
+BULSHE    Buller's Shearwater
+SOOSHE    Sooty Shearwater
+SHTASH    Short-tailed Shearwater
+MANSHE    Manx Shearwater
+TOWSHE    Townsend's Shearwater
+BLVESH    Black-vented Shearwater
+AUDSHE    Audubon's Shearwater
+LITSHE    Little Shearwater
+
+STORM-PETRELS
+
+WISTPE    Wilson's Storm-Petrel
+WFSTPE    White-faced Storm-Petrel
+BBSTPE    Black-bellied Storm-Petrel
+EUSTPE    European Storm-Petrel
+FTSTPE    Fork-tailed Storm-Petrel
+RISTPE    Ringed Storm-Petrel
+LEACSP    Leach's Storm-Petrel
+ASSTPE    Ashy Storm-Petrel
+BRSTPE    Band-rumped Storm-Petrel
+SWSTPE    Swinhoe's Storm-Petrel
+WRSTPE    Wedge-rumped Storm-Petrel
+BLSTPE    Black Storm-Petrel
+LEASSP    Least Storm-Petrel
+TRSTPE    Tristram's Storm-Petrel
+
+TROPICBIRDS
+
+WHTATR    White-tailed Tropicbird
+REBITR    Red-billed Tropicbird
+RETATR    Red-tailed Tropicbird
+
+BOOBIES and GANNETS
+
+MASBOO    Masked Booby
+BLFOBO    Blue-footed Booby
+BROBOO    Brown Booby
+REFOBO    Red-footed Booby
+NORGAN    Northern Gannet
+
+PELICANS
+
+AMWHPE    American White Pelican
+BROPEL    Brown Pelican
+
+CORMORANTS
+
+BRACOR    Brandt's Cormorant
+NEOCOR    Neotropic Cormorant
+DOCRCO    Double-crested Cormorant
+GRECOR    Great Cormorant
+REFACO    Red-faced Cormorant
+PELCOR    Pelagic Cormorant
+
+DARTERS
+
+ANHING    Anhinga
+
+FRIGATEBIRDS
+
+MAGFRI    Magnificent Frigatebird
+GREFRI    Great Frigatebird
+LESFRI    Lesser Frigatebird
+
+BITTERNS, HERONS, and ALLIES
+
+AMEBIT    American Bittern
+YELBIT    Yellow Bittern
+LEABIT    Least Bittern
+BTTIHE    Bare-throated Tiger-Heron
+GRBLHE    Great Blue Heron
+GRAHER    Gray Heron
+GREEGR    Great Egret
+INTEGR    Intermediate Egret
+CHIEGR    Chinese Egret
+LITEGR    Little Egret
+WEREHE    Western Reef-Heron
+SNOEGR    Snowy Egret
+LIBLHE    Little Blue Heron
+TRIHER    Tricolored Heron
+REDEGR    Reddish Egret
+CATEGR    Cattle Egret
+CHPOHE    Chinese Pond-Heron
+GREHER    Green Heron
+BCNIHE    Black-crowned Night-Heron
+YCNIHE    Yellow-crowned Night-Heron
+
+IBISES and SPOONBILLS
+
+WHIIBI    White Ibis
+SCAIBI    Scarlet Ibis
+GLOIBI    Glossy Ibis
+WHFAIB    White-faced Ibis
+ROSSPO    Roseate Spoonbill
+
+STORKS
+
+JABIRU    Jabiru
+WOOSTO    Wood Stork
+
+NEW WORLD VULTURES
+
+BLAVUL    Black Vulture
+TURVUL    Turkey Vulture
+CALCON    California Condor
+
+KITES, HAWKS, EAGLES, and ALLIES
+
+OSPREY    Osprey
+HOBIKI    Hook-billed Kite
+SWTAKI    Swallow-tailed Kite
+WHTAKI    White-tailed Kite
+SNAKIT    Snail Kite
+MISKIT    Mississippi Kite
+BALEAG    Bald Eagle
+WHTAEA    White-tailed Eagle
+STSEEA    Steller's Sea-Eagle
+NORHAR    Northern Harrier
+SHSHHA    Sharp-shinned Hawk
+COOHAW    Cooper's Hawk
+NORGOS    Northern Goshawk
+CRAHAW    Crane Hawk
+COBLHA    Common Black-Hawk
+HARHAW    Harris's Hawk
+ROAHAW    Roadside Hawk
+RESHHA    Red-shouldered Hawk
+BRWIHA    Broad-winged Hawk
+GRAHAW    Gray Hawk
+SHTAHA    Short-tailed Hawk
+SWAHAW    Swainson's Hawk
+WHTAHA    White-tailed Hawk
+ZOTAHA    Zone-tailed Hawk
+RETAHA    Red-tailed Hawk
+FERHAW    Ferruginous Hawk
+ROLEHA    Rough-legged Hawk
+GOLEAG    Golden Eagle
+
+CARACARAS and FALCONS
+
+COFOFA    Collared Forest-Falcon
+CRECAR    Crested Caracara
+EURKES    Eurasian Kestrel
+AMEKES    American Kestrel
+MERLIN    Merlin
+EURHOB    Eurasian Hobby
+REFOFA    Red-footed Falcon
+APLFAL    Aplomado Falcon
+GYRFAL    Gyrfalcon
+PERFAL    Peregrine Falcon
+PRAFAL    Prairie Falcon
+
+RAILS, GALLINULES, and COOTS
+
+YELRAI    Yellow Rail
+BLARAI    Black Rail
+CORCRA    Corn Crake
+CLARAI    Clapper Rail
+KINRAI    King Rail
+VIRRAI    Virginia Rail
+SORA      Sora  
+PABICR    Paint-billed Crake
+SPORAI    Spotted Rail
+PURGAL    Purple Gallinule
+COMMOO    Common Moorhen
+EURCOO    Eurasian Coot
+AMECOO    American Coot
+
+LIMPKINS
+
+LIMPKI    Limpkin
+
+CRANES
+
+SANCRA    Sandhill Crane
+COMCRA    Common Crane
+WHOCRA    Whooping Crane
+
+THICK-KNEES
+
+DSTHKN    Double-striped Thick-knee
+
+PLOVERS and LAPWINGS
+
+NORLAP    Northern Lapwing
+BLBEPL    Black-bellied Plover
+EUGOPL    European Golden-Plover
+AMGOPL    American Golden-Plover
+PAGOPL    Pacific Golden-Plover
+LESAPL    Lesser Sand-Plover
+GRSAPL    Greater Sand-Plover
+COLPLO    Collared Plover
+SNOPLO    Snowy Plover
+WILPLO    Wilson's Plover
+CORIPL    Common Ringed Plover
+SEMPLO    Semipalmated Plover
+PIPPLO    Piping Plover
+LIRIPL    Little Ringed Plover
+KILLDE    Killdeer
+MOUPLO    Mountain Plover
+EURDOT    Eurasian Dotterel
+
+OYSTERCATCHERS
+
+EUROYS    Eurasian Oystercatcher
+AMEOYS    American Oystercatcher
+BLAOYS    Black Oystercatcher
+
+STILTS and AVOCETS
+
+BLWIST    Black-winged Stilt
+BLNEST    Black-necked Stilt
+AMEAVO    American Avocet
+
+JACANAS
+
+NORJAC    Northern Jacana
+
+SANDPIPERS, PHALAROPES, and ALLIES
+
+TERSAN    Terek Sandpiper
+COMSAN    Common Sandpiper
+SPOSAN    Spotted Sandpiper
+GRESAN    Green Sandpiper
+SOLSAN    Solitary Sandpiper
+GRTATA    Gray-tailed Tattler
+WANTAT    Wandering Tattler
+SPORED    Spotted Redshank
+GREYEL    Greater Yellowlegs
+COMGRE    Common Greenshank
+WILLET    Willet
+LESYEL    Lesser Yellowlegs
+MARSAN    Marsh Sandpiper
+WOOSAN    Wood Sandpiper
+COREDS    Common Redshank
+UPLSAN    Upland Sandpiper
+LITCUR    Little Curlew
+ESKCUR    Eskimo Curlew
+WHIMBR    Whimbrel
+BRTHCU    Bristle-thighed Curlew
+FAEACU    Far Eastern Curlew
+SLBICU    Slender-billed Curlew
+EURCUR    Eurasian Curlew
+LOBICU    Long-billed Curlew
+BLTAGO    Black-tailed Godwit
+HUDGOD    Hudsonian Godwit
+BATAGO    Bar-tailed Godwit
+MARGOD    Marbled Godwit
+RUDTUR    Ruddy Turnstone
+BLATUR    Black Turnstone
+SURFBI    Surfbird
+GREKNO    Great Knot
+REDKNO    Red Knot
+SANDER    Sanderling
+SEMSAN    Semipalmated Sandpiper
+WESSAN    Western Sandpiper
+RENEST    Red-necked Stint
+LITSTI    Little Stint
+TEMSTI    Temminck's Stint
+LOTOST    Long-toed Stint
+LEASAN    Least Sandpiper
+WHRUSA    White-rumped Sandpiper
+BAISAN    Baird's Sandpiper
+PECSAN    Pectoral Sandpiper
+SHTASA    Sharp-tailed Sandpiper
+PURSAN    Purple Sandpiper
+ROCSAN    Rock Sandpiper
+DUNLIN    Dunlin
+CURSAN    Curlew Sandpiper
+STISAN    Stilt Sandpiper
+SPBISA    Spoon-billed Sandpiper
+BRBISA    Broad-billed Sandpiper
+BUBRSA    Buff-breasted Sandpiper
+RUFF      Ruff  
+SHBIDO    Short-billed Dowitcher
+LOBIDO    Long-billed Dowitcher
+JACSNI    Jack Snipe
+SOLSNI    Solitary Snipe
+WILSNI    Wilson's Snipe
+COMSNI    Common Snipe
+PITASN    Pin-tailed Snipe
+EURWOO    Eurasian Woodcock
+AMEWOO    American Woodcock
+WILPHA    Wilson's Phalarope
+RENEPH    Red-necked Phalarope
+REDPHA    Red Phalarope
+
+PRATINCOLES
+
+ORIPRA    Oriental Pratincole
+
+GULLS, TERNS, and SKIMMERS
+
+SWTAGU    Swallow-tailed Gull
+BLLEKI    Black-legged Kittiwake
+RELEKI    Red-legged Kittiwake
+IVOGUL    Ivory Gull 
+SABGUL    Sabine's Gull
+BONGUL    Bonaparte's Gull
+GRHOGU    Gray-hooded Gull
+BLHEGU    Black-headed Gull
+LITGUL    Little Gull
+ROSGUL    Ross's Gull 
+LAUGUL    Laughing Gull
+FRAGUL    Franklin's Gull
+BELGUL    Belcher's Gull
+BLTAGU    Black-tailed Gull
+HEEGUL    Heermann's Gull
+MEWGUL    Mew Gull
+RIBIGU    Ring-billed Gull
+WESGUL    Western Gull
+YEFOGU    Yellow-footed Gull
+CALGUL    California Gull
+HERGUL    Herring Gull
+YELEGU    Yellow-legged Gull
+THAGUL    Thayer's Gull
+ICEGUL    Iceland Gull
+LBBAGU    Lesser Black-backed Gull
+SLBAGU    Slaty-backed Gull
+GLWIGU    Glaucous-winged Gull
+GLAGUL    Glaucous Gull
+GBBAGU    Great Black-backed Gull
+KELGUL    Kelp Gull
+BRONOD    Brown Noddy
+BLANOD    Black Noddy
+SOOTER    Sooty Tern
+BRITER    Bridled Tern
+ALETER    Aleutian Tern
+LEATER    Least Tern
+LABITE    Large-billed Tern
+GUBITE    Gull-billed Tern
+CASTER    Caspian Tern
+BLATER    Black Tern
+WHWITE    White-winged Tern
+WHITER    Whiskered Tern
+ROSTER    Roseate Tern
+COMTER    Common Tern
+ARCTER    Arctic Tern
+FORTER    Forster's Tern
+ROYTER    Royal Tern
+SANTER    Sandwich Tern
+ELETER    Elegant Tern
+BLASKI    Black Skimmer
+
+SKUAS and JAEGERS
+
+GRESKU    Great Skua
+SOPOSK    South Polar Skua
+POMJAE    Pomarine Jaeger
+PARJAE    Parasitic Jaeger
+LOTAJA    Long-tailed Jaeger
+
+AUKS, MURRES, and PUFFINS
+
+DOVEKI    Dovekie
+COMMUR    Common Murre
+THBIMU    Thick-billed Murre
+RAZORB    Razorbill
+GREAUK    Great Auk
+BLAGUI    Black Guillemot
+PIGGUI    Pigeon Guillemot
+LOBIMU    Long-billed Murrelet
+MARMUR    Marbled Murrelet
+KITMUR    Kittlitz's Murrelet
+XANMUR    Xantus's Murrelet
+CRAMUR    Craveri's Murrelet
+ANCMUR    Ancient Murrelet
+CASAUK    Cassin's Auklet
+PARAUK    Parakeet Auklet
+LEAAUK    Least Auklet
+WHIAUK    Whiskered Auklet
+CREAUK    Crested Auklet
+RHIAUK    Rhinoceros Auklet
+ATLPUF    Atlantic Puffin
+HORPUF    Horned Puffin
+TUFPUF    Tufted Puffin
+
+PIGEONS and DOVES
+
+ROCPIG    Rock Pigeon
+SCNAPI    Scaly-naped Pigeon
+WHCRPI    White-crowned Pigeon
+REBIPI    Red-billed Pigeon
+BATAPI    Band-tailed Pigeon
+ORTUDO    Oriental Turtle-Dove
+EUTUDO    European Turtle-Dove
+EUCODO    Eurasian Collared-Dove
+SPODOV    Spotted Dove
+WHWIDO    White-winged Dove
+ZENDOV    Zenaida Dove
+MOUDOV    Mourning Dove
+PASPIG    Passenger Pigeon
+INCDOV    Inca Dove
+COGRDO    Common Ground-Dove
+RUGRDO    Ruddy Ground-Dove
+WHTIDO    White-tipped Dove
+KWQUDO    Key West Quail-Dove
+RUQUDO    Ruddy Quail-Dove
+
+LORIES, PARAKEETS, MACAWS, and PARROTS
+
+BUDGER    Budgerigar
+MONPAR    Monk Parakeet
+CARPAR    Carolina Parakeet
+GREPAR    Green Parakeet
+THBIPA    Thick-billed Parrot
+WHWIPA    White-winged Parakeet
+RECRPA    Red-crowned Parrot
+
+CUCKOOS, ROADRUNNERS, and ANIS
+
+COMCUC    Common Cuckoo
+ORICUC    Oriental Cuckoo
+YEBICU    Yellow-billed Cuckoo
+BLBICU    Black-billed Cuckoo
+MANCUC    Mangrove Cuckoo
+GREROA    Greater Roadrunner
+SMBIAN    Smooth-billed Ani
+GRBIAN    Groove-billed Ani
+
+BARN OWLS
+
+BARNOW    Barn Owl
+
+TYPICAL OWLS
+
+FLAOWL    Flammulated Owl
+ORSCOW    Oriental Scops-Owl
+WESCOW    Western Screech-Owl
+EASCOW    Eastern Screech-Owl
+WHSCOW    Whiskered Screech-Owl
+GRHOOW    Great Horned Owl
+SNOOWL    Snowy Owl
+NOHAOW    Northern Hawk Owl
+NOPYOW    Northern Pygmy-Owl
+FEPYOW    Ferruginous Pygmy-Owl
+ELFOWL    Elf Owl
+BUROWL    Burrowing Owl
+MOTOWL    Mottled Owl
+SPOOWL    Spotted Owl
+BARROW    Barred Owl
+GRGROW    Great Gray Owl
+LOEAOW    Long-eared Owl
+STYOWL    Stygian Owl
+SHEAOW    Short-eared Owl
+BOROWL    Boreal Owl
+NSWHOW    Northern Saw-whet Owl
+BRHAOW    Brown Hawk-Owl
+
+GOATSUCKERS
+
+LESNIG    Lesser Nighthawk
+COMNIG    Common Nighthawk
+ANTNIG    Antillean Nighthawk
+COMPAU    Common Pauraque
+COMPOO    Common Poorwill
+CHWIWI    Chuck-will's-widow
+BUCONI    Buff-collared Nightjar
+EWPOWI    Eastern Whip-poor-will
+MWPOWI    Mexican Whip-poor-will
+GRANIG    Gray Nightjar
+
+SWIFTS
+
+BLASWI    Black Swift
+WHCOSW    White-collared Swift
+CHISWI    Chimney Swift
+VAUSWI    Vaux's Swift
+WHTHNE    White-throated Needletail
+COMSWI    Common Swift
+FOTASW    Fork-tailed Swift
+WHTHSW    White-throated Swift
+ANPASW    Antillean Palm-Swift
+
+HUMMINGBIRDS
+
+GREVIO    Green Violetear
+GNBRMA    Green-breasted Mango
+BRBIHU    Broad-billed Hummingbird
+WHEAHU    White-eared Hummingbird
+XANHUM    Xantus's Hummingbird
+BERHUM    Berylline Hummingbird
+BUBEHU    Buff-bellied Hummingbird
+CINHUM    Cinnamon Hummingbird
+VICRHU    Violet-crowned Hummingbird
+BLTHHU    Blue-throated Hummingbird
+MAGHUM    Magnificent Hummingbird
+PLCAST    Plain-capped Starthroat
+BAHWOO    Bahama Woodstar
+LUCHUM    Lucifer Hummingbird
+RUTHHU    Ruby-throated Hummingbird
+BLCHHU    Black-chinned Hummingbird
+ANNHUM    Anna's Hummingbird
+COSHUM    Costa's Hummingbird
+CALHUM    Calliope Hummingbird
+BUMHUM    Bumblebee Hummingbird
+BRTAHU    Broad-tailed Hummingbird
+RUFHUM    Rufous Hummingbird
+ALLHUM    Allen's Hummingbird
+
+TROGONS
+
+ELETRO    Elegant Trogon
+EARQUE    Eared Quetzal
+
+HOOPOES
+
+EURHOO    Eurasian Hoopoe
+
+KINGFISHERS
+
+RINKIN    Ringed Kingfisher
+BELKIN    Belted Kingfisher
+AMAKIN    Amazon Kingfisher
+GREKIN    Green Kingfisher
+
+WOODPECKERS and ALLIES
+
+EURWRY    Eurasian Wryneck
+LEWWOO    Lewis's Woodpecker
+REHEWO    Red-headed Woodpecker
+ACOWOO    Acorn Woodpecker
+GILWOO    Gila Woodpecker
+GOFRWO    Golden-fronted Woodpecker
+REBEWO    Red-bellied Woodpecker
+WILSAP    Williamson's Sapsucker
+YEBESA    Yellow-bellied Sapsucker
+RENASA    Red-naped Sapsucker
+REBRSA    Red-breasted Sapsucker
+GRSPWO    Great Spotted Woodpecker
+LABAWO    Ladder-backed Woodpecker
+NUTWOO    Nuttall's Woodpecker
+DOWWOO    Downy Woodpecker
+HAIWOO    Hairy Woodpecker
+ARIWOO    Arizona Woodpecker
+RECOWO    Red-cockaded Woodpecker
+WHHEWO    White-headed Woodpecker
+ATTOWO    American Three-toed Woodpecker
+BLBAWO    Black-backed Woodpecker
+NORFLI    Northern Flicker
+GILFLI    Gilded Flicker
+PILWOO    Pileated Woodpecker
+IVBIWO    Ivory-billed Woodpecker
+
+TYRANT FLYCATCHERS
+
+NOBETY    Northern Beardless-Tyrannulet
+GREELA    Greenish Elaenia
+WHCREL    White-crested Elaenia
+TUFFLY    Tufted Flycatcher
+OLSIFL    Olive-sided Flycatcher
+GREPEW    Greater Pewee
+WEWOPE    Western Wood-Pewee
+EAWOPE    Eastern Wood-Pewee
+CUBPEW    Cuban Pewee
+YEBEFL    Yellow-bellied Flycatcher
+ACAFLY    Acadian Flycatcher
+ALDFLY    Alder Flycatcher
+WILFLY    Willow Flycatcher
+LEAFLY    Least Flycatcher
+HAMFLY    Hammond's Flycatcher
+GRAFLY    Gray Flycatcher
+DUSFLY    Dusky Flycatcher
+PASLFL    Pacific-slope Flycatcher
+CORFLY    Cordilleran Flycatcher
+BUBRFL    Buff-breasted Flycatcher
+BLAPHO    Black Phoebe
+EASPHO    Eastern Phoebe
+SAYPHO    Say's Phoebe
+VERFLY    Vermilion Flycatcher
+DUCAFL    Dusky-capped Flycatcher
+ASTHFL    Ash-throated Flycatcher
+NUTFLY    Nutting's Flycatcher
+GRCRFL    Great Crested Flycatcher
+BRCRFL    Brown-crested Flycatcher
+LASAFL    La Sagra's Flycatcher
+GREKIS    Great Kiskadee
+SOCFLY    Social Flycatcher
+SUBEFL    Sulphur-bellied Flycatcher
+PIRFLY    Piratic Flycatcher
+VARFLY    Variegated Flycatcher
+CRSLFL    Crowned Slaty Flycatcher
+TROKIN    Tropical Kingbird
+COUKIN    Couch's Kingbird
+CASKIN    Cassin's Kingbird
+THBIKI    Thick-billed Kingbird
+WESKIN    Western Kingbird
+EASKIN    Eastern Kingbird
+GRAKIN    Gray Kingbird
+LOGKIN    Loggerhead Kingbird
+SCTAFL    Scissor-tailed Flycatcher
+FOTAFL    Fork-tailed Flycatcher
+GRCOBE    Gray-collared Becard
+ROTHBE    Rose-throated Becard
+MASTIT    Masked Tityra
+
+SHRIKES
+
+BROSHR    Brown Shrike
+LOGSHR    Loggerhead Shrike
+NORSHR    Northern Shrike
+
+VIREOS
+
+WHEYVI    White-eyed Vireo
+THBIVI    Thick-billed Vireo
+BELVIR    Bell's Vireo
+BLCAVI    Black-capped Vireo
+GRAVIR    Gray Vireo
+YETHVI    Yellow-throated Vireo
+PLUVIR    Plumbeous Vireo
+CASVIR    Cassin's Vireo
+BLHEVI    Blue-headed Vireo
+HUTVIR    Hutton's Vireo
+WARVIR    Warbling Vireo
+PHIVIR    Philadelphia Vireo
+REEYVI    Red-eyed Vireo
+YEGRVI    Yellow-green Vireo
+BLWHVI    Black-whiskered Vireo
+YUCVIR    Yucatan Vireo
+
+JAYS, MAGPIES, and CROWS
+
+GRAJAY    Gray Jay
+STEJAY    Steller's Jay
+BLUJAY    Blue Jay
+GREJAY    Green Jay
+BROJAY    Brown Jay
+FLSCJA    Florida Scrub-Jay
+ISSCJA    Island Scrub-Jay
+WESCJA    Western Scrub-Jay
+MEXJAY    Mexican Jay
+PINJAY    Pinyon Jay
+CLANUT    Clark's Nutcracker
+BLBIMA    Black-billed Magpie
+YEBIMA    Yellow-billed Magpie
+EURJAC    Eurasian Jackdaw
+AMECRO    American Crow
+NORCRO    Northwestern Crow
+TAMCRO    Tamaulipas Crow
+FISCRO    Fish Crow
+CHIRAV    Chihuahuan Raven
+COMRAV    Common Raven
+
+LARKS
+
+SKYLAR    Sky Lark
+HORLAR    Horned Lark
+
+SWALLOWS
+
+PURMAR    Purple Martin
+CUBMAR    Cuban Martin
+GYBRMA    Gray-breasted Martin
+SOUMAR    Southern Martin
+BRCHMA    Brown-chested Martin
+TRESWA    Tree Swallow
+MANSWA    Mangrove Swallow
+VIGRSW    Violet-green Swallow
+BAHSWA    Bahama Swallow
+NRWISW    Northern Rough-winged Swallow
+BANSWA    Bank Swallow
+CLISWA    Cliff Swallow
+CAVSWA    Cave Swallow
+BARSWA    Barn Swallow
+COHOMA    Common House-Martin
+
+CHICKADEES and TITMICE
+
+CARCHI    Carolina Chickadee
+BLCACH    Black-capped Chickadee
+MOUCHI    Mountain Chickadee
+MEXCHI    Mexican Chickadee
+CHBACH    Chestnut-backed Chickadee
+BORCHI    Boreal Chickadee
+GRHECH    Gray-headed Chickadee
+BRITIT    Bridled Titmouse
+OAKTIT    Oak Titmouse
+JUNTIT    Juniper Titmouse
+TUFTIT    Tufted Titmouse
+BLCRTI    Black-crested Titmouse
+
+VERDIN
+
+VERDIN    Verdin
+
+BUSHTITS
+
+BUSHTI    Bushtit
+
+NUTHATCHES
+
+REBRNU    Red-breasted Nuthatch
+WHBRNU    White-breasted Nuthatch
+PYGNUT    Pygmy Nuthatch
+BRHENU    Brown-headed Nuthatch
+
+CREEPERS
+
+BROCRE    Brown Creeper
+
+WRENS
+
+CACWRE    Cactus Wren
+ROCWRE    Rock Wren
+CANWRE    Canyon Wren
+SINWRE    Sinaloa Wren
+CARWRE    Carolina Wren
+BEWWRE    Bewick's Wren
+HOUWRE    House Wren
+WINWRE    Winter Wren
+PACWRE    Pacific Wren
+SEDWRE    Sedge Wren
+MARWRE    Marsh Wren
+
+DIPPERS
+
+AMEDIP    American Dipper
+
+BULBULS
+
+REWHBU    Red-whiskered Bulbul
+
+KINGLETS
+
+GOCRKI    Golden-crowned Kinglet
+RUCRKI    Ruby-crowned Kinglet
+
+OLD WORLD WARBLERS and GNATCATCHERS
+
+MIGRWA    Middendorff's Grasshopper-Warbler
+LANWAR    Lanceolated Warbler
+SEDWAR    Sedge Warbler
+WILLWA    Willow Warbler
+WOOWAR    Wood Warbler
+DUSWAR    Dusky Warbler
+YEBRWA    Yellow-browed Warbler
+PALLWA    Pallas's Warbler
+ARCWAR    Arctic Warbler
+LESWHI    Lesser Whitethroat
+BLGRGN    Blue-gray Gnatcatcher
+CALGNA    California Gnatcatcher
+BLTAGN    Black-tailed Gnatcatcher
+BLCAGN    Black-capped Gnatcatcher
+
+OLD WORLD FLYCATCHERS
+
+NARFLY    Narcissus Flycatcher
+MUGFLY    Mugimaki Flycatcher
+TAIFLY    Taiga Flycatcher
+DASIFL    Dark-sided Flycatcher
+GRSTFL    Gray-streaked Flycatcher
+ASBRFL    Asian Brown Flycatcher
+SPOFLY    Spotted Flycatcher
+
+THRUSHES
+
+RUTARO    Rufous-tailed Robin
+SIBRUB    Siberian Rubythroat
+BLUETH    Bluethroat
+SIBLRO    Siberian Blue Robin
+REFLBL    Red-flanked Bluetail
+NORWHE    Northern Wheatear
+STONEC    Stonechat
+EASBLU    Eastern Bluebird
+WESBLU    Western Bluebird
+MOUBLU    Mountain Bluebird
+TOWSOL    Townsend's Solitaire
+BRBASO    Brown-backed Solitaire
+OBNITH    Orange-billed Nightingale-Thrush
+BHNITH    Black-headed Nightingale-Thrush
+VEERY     Veery 
+GRCHTH    Gray-cheeked Thrush
+BICTHR    Bicknell's Thrush
+SWATHR    Swainson's Thrush
+HERTHR    Hermit Thrush
+WOOTHR    Wood Thrush
+EURBLA    Eurasian Blackbird
+EYETHR    Eyebrowed Thrush
+DUSTHR    Dusky Thrush
+FIELDF    Fieldfare
+REDWIN    Redwing
+SONTHR    Song Thrush
+CLCOTH    Clay-colored Thrush
+WHTHTH    White-throated Thrush
+RUBARO    Rufous-backed Robin
+AMEROB    American Robin
+RELETH    Red-legged Thrush
+VARTHR    Varied Thrush
+AZTTHR    Aztec Thrush
+
+WRENTIT
+
+WRENTI    Wrentit
+
+MOCKINGBIRDS, THRASHERS, and ALLIES
+
+GRACAT    Gray Catbird
+NORMOC    Northern Mockingbird
+BAHMOC    Bahama Mockingbird
+SAGTHR    Sage Thrasher
+BROTHR    Brown Thrasher
+LOBITH    Long-billed Thrasher
+BENTHR    Bendire's Thrasher
+CUBITH    Curve-billed Thrasher
+CALTHR    California Thrasher
+CRITHR    Crissal Thrasher
+LECOTH    Le Conte's Thrasher
+BLUMOC    Blue Mockingbird
+
+STARLINGS and ALLIES
+
+EURSTA    European Starling
+COMMYN    Common Myna
+
+ACCENTORS
+
+SIBACC    Siberian Accentor
+
+WAGTAILS and PIPITS
+
+EAYEWA    Eastern Yellow Wagtail
+CITWAG    Citrine Wagtail
+GRAWAG    Gray Wagtail
+WHIWAG    White Wagtail
+TREPIP    Tree Pipit
+OLBAPI    Olive-backed Pipit
+PECPIP    Pechora Pipit
+RETHPI    Red-throated Pipit
+AMEPIP    American Pipit
+SPRPIP    Sprague's Pipit
+
+WAXWINGS
+
+BOHWAX    Bohemian Waxwing
+CEDWAX    Cedar Waxwing
+
+SILKY-FLYCATCHERS
+
+GRSIFL    Gray Silky-flycatcher
+PHAINO    Phainopepla
+
+OLIVE WARBLER
+
+OLIWAR    Olive Warbler
+
+LONGSPURS and ALLIES
+
+LAPLON    Lapland Longspur
+CHCOLO    Chestnut-collared Longspur
+SMILON    Smith's Longspur
+MCCLON    McCown's Longspur
+SNOBUN    Snow Bunting
+MCKBUN    McKay's Bunting
+
+WOOD-WARBLERS
+
+BACWAR    Bachman's Warbler
+BLWIWA    Blue-winged Warbler
+GOWIWA    Golden-winged Warbler
+TENWAR    Tennessee Warbler
+ORCRWA    Orange-crowned Warbler
+NASWAR    Nashville Warbler
+VIRWAR    Virginia's Warbler
+COLWAR    Colima Warbler
+LUCWAR    Lucy's Warbler
+CRCHWA    Crescent-chested Warbler
+NORPAR    Northern Parula
+TROPAR    Tropical Parula
+YELWAR    Yellow Warbler
+CHSIWA    Chestnut-sided Warbler
+MAGWAR    Magnolia Warbler
+CAMAWA    Cape May Warbler
+BTBLWA    Black-throated Blue Warbler
+YERUWA    Yellow-rumped Warbler
+BTGYWA    Black-throated Gray Warbler
+GOCHWA    Golden-cheeked Warbler
+BTGNWA    Black-throated Green Warbler
+TOWWAR    Townsend's Warbler
+HERWAR    Hermit Warbler
+BLBUWA    Blackburnian Warbler
+YETHWA    Yellow-throated Warbler
+GRAWAR    Grace's Warbler
+PINWAR    Pine Warbler
+KIRWAR    Kirtland's Warbler
+PRAWAR    Prairie Warbler
+PALMWA    Palm Warbler
+BABRWA    Bay-breasted Warbler
+BLPOWA    Blackpoll Warbler
+CERWAR    Cerulean Warbler
+BAWHWA    Black-and-white Warbler
+AMERED    American Redstart
+PROWAR    Prothonotary Warbler
+WOEAWA    Worm-eating Warbler
+SWAWAR    Swainson's Warbler
+OVENBI    Ovenbird
+NORWAT    Northern Waterthrush
+LOUWAT    Louisiana Waterthrush
+KENWAR    Kentucky Warbler
+CONWAR    Connecticut Warbler
+MOUWAR    Mourning Warbler
+MACWAR    MacGillivray's Warbler
+COMYEL    Common Yellowthroat
+GRCRYE    Gray-crowned Yellowthroat
+HOOWAR    Hooded Warbler
+WILSWA    Wilson's Warbler
+CANWAR    Canada Warbler
+REFAWA    Red-faced Warbler
+PAIRED    Painted Redstart
+SLTHRE    Slate-throated Redstart
+FATAWA    Fan-tailed Warbler
+GOCRWA    Golden-crowned Warbler
+RUCAWA    Rufous-capped Warbler
+YEBRCH    Yellow-breasted Chat
+
+BANANAQUITS
+
+BANANA    Bananaquit
+
+TANAGERS
+
+HEPTAN    Hepatic Tanager
+SUMTAN    Summer Tanager
+SCATAN    Scarlet Tanager
+WESTAN    Western Tanager
+FLCOTA    Flame-colored Tanager
+WESSPI    Western Spindalis
+
+NEW WORLD SPARROWS and ALLIES
+
+WHCOSE    White-collared Seedeater
+YEFAGR    Yellow-faced Grassquit
+BLFAGR    Black-faced Grassquit
+OLISPA    Olive Sparrow
+GRTATO    Green-tailed Towhee
+SPOTOW    Spotted Towhee
+EASTOW    Eastern Towhee
+RUCRSP    Rufous-crowned Sparrow
+CANTOW    Canyon Towhee
+CALTOW    California Towhee
+ABETOW    Abert's Towhee
+RUWISP    Rufous-winged Sparrow
+BOTSPA    Botteri's Sparrow
+CASSPA    Cassin's Sparrow
+BACSPA    Bachman's Sparrow
+AMTRSP    American Tree Sparrow
+CHISPA    Chipping Sparrow
+CLCOSP    Clay-colored Sparrow
+BRESPA    Brewer's Sparrow
+FIESPA    Field Sparrow
+WORSPA    Worthen's Sparrow
+BLCHSP    Black-chinned Sparrow
+VESSPA    Vesper Sparrow
+LARSPA    Lark Sparrow
+FISTSP    Five-striped Sparrow
+BLTHSP    Black-throated Sparrow
+SAGSPA    Sage Sparrow
+LARBUN    Lark Bunting
+SAVSPA    Savannah Sparrow
+GRASPA    Grasshopper Sparrow
+BAISPA    Baird's Sparrow
+HENSPA    Henslow's Sparrow
+LECOSP    Le Conte's Sparrow
+NELSPA    Nelson's Sparrow
+SALSPA    Saltmarsh Sparrow
+SEASPA    Seaside Sparrow
+FOXSPA    Fox Sparrow
+SONSPA    Song Sparrow
+LINSPA    Lincoln's Sparrow
+SWASPA    Swamp Sparrow
+WHTHSP    White-throated Sparrow
+HARSPA    Harris's Sparrow
+WHCRSP    White-crowned Sparrow
+GOCRSP    Golden-crowned Sparrow
+DAEYJU    Dark-eyed Junco
+YEEYJU    Yellow-eyed Junco
+PINBUN    Pine Bunting
+LITBUN    Little Bunting
+YBROBU    Yellow-browed Bunting
+RUSBUN    Rustic Bunting
+YETHBU    Yellow-throated Bunting
+YBREBU    Yellow-breasted Bunting
+GRABUN    Gray Bunting
+PALBUN    Pallas's Bunting
+REEBUN    Reed Bunting
+
+CARDINALS and ALLIES
+
+CRCOGR    Crimson-collared Grosbeak
+NORCAR    Northern Cardinal
+PYRRHU    Pyrrhuloxia
+YELGRO    Yellow Grosbeak
+ROBRGR    Rose-breasted Grosbeak
+BLHEGR    Black-headed Grosbeak
+BLUBUN    Blue Bunting
+BLUGRO    Blue Grosbeak
+LAZBUN    Lazuli Bunting
+INDBUN    Indigo Bunting
+VARBUN    Varied Bunting
+PAIBUN    Painted Bunting
+DICKCI    Dickcissel
+
+BLACKBIRDS and ALLIES
+
+BOBOLI    Bobolink
+REWIBL    Red-winged Blackbird
+TRIBLA    Tricolored Blackbird
+TASHBL    Tawny-shouldered Blackbird
+EASMEA    Eastern Meadowlark
+WESMEA    Western Meadowlark
+YEHEBL    Yellow-headed Blackbird
+RUSBLA    Rusty Blackbird
+BREBLA    Brewer's Blackbird
+COMGRA    Common Grackle
+BOTAGR    Boat-tailed Grackle
+GRTAGR    Great-tailed Grackle
+SHICOW    Shiny Cowbird
+BROCOW    Bronzed Cowbird
+BRHECO    Brown-headed Cowbird
+BLVEOR    Black-vented Oriole
+ORCORI    Orchard Oriole
+HOOORI    Hooded Oriole
+STBAOR    Streak-backed Oriole
+BULORI    Bullock's Oriole
+SPBROR    Spot-breasted Oriole
+ALTORI    Altamira Oriole
+AUDORI    Audubon's Oriole
+BALORI    Baltimore Oriole
+SCOORI    Scott's Oriole
+
+FINCHES and ALLIES
+
+COMCHA    Common Chaffinch
+BRAMBL    Brambling
+GCROFI    Gray-crowned Rosy-Finch
+BLROFI    Black Rosy-Finch
+BCROFI    Brown-capped Rosy-Finch
+PINGRO    Pine Grosbeak
+COMROS    Common Rosefinch
+PURFIN    Purple Finch
+CASFIN    Cassin's Finch
+HOUFIN    House Finch
+REDCRO    Red Crossbill
+WHWICR    White-winged Crossbill
+COREDP    Common Redpoll
+HOARED    Hoary Redpoll
+EURSIS    Eurasian Siskin
+PINSIS    Pine Siskin
+LESGOL    Lesser Goldfinch
+LAWGOL    Lawrence's Goldfinch
+AMEGOL    American Goldfinch
+ORIGRE    Oriental Greenfinch
+EURBUL    Eurasian Bullfinch
+EVEGRO    Evening Grosbeak
+HAWFIN    Hawfinch
+
+OLD WORLD SPARROWS
+
+HOUSPA    House Sparrow
+EUTRSP    Eurasian Tree Sparrow
