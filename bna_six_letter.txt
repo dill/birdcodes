@@ -1,0 +1,13 @@
+From https://static1.squarespace.com/static/512280dee4b0b5151b75de25/t/51ae6c73e4b0d19bff6e01e8/1370385523525/4and6LetterCodes.pdf
+
+One-word Names: first 6 letters of the name (ex. Redhead = REDHEA; Osprey = OSPREY; Sora = SORA)
+
+Two-word Names: first three letters of first word and first three letters of last word.  Hyphenated words always treated as separate words (ex. Common Yellowthroat = COMYEL; Storm-petrel = STOPET; Painted Redstart = PAIRED)
+
+Three-word Names: two letters from first word, one from second, three from third:Blue-winged Warbler = BLWWAR; Wilson’s Storm-petrel = WISPET; Dark-eyed Junco = DAEJUN)
+
+Four-or-more-word Names:  one letter from each first three words, then first three letters of last word (ex. Great black-backed Gull = GBBGUL; Black-throated Blue Warbler = BTBWAR; Yellow-crowned Night Heron = YCNHER)
+
+Some similar-color names are abbreviated in fixed ways: green is GRN or GN; gray is GRY or GY; black is BLK or BK; blue is BLU or BU; and brown is BRN or BN (Brown-crested Flycatcher = BNCFLY; Black-throated Green Warbler = BTGNWA; Black-throated Gray Warbler = BTGYWA)
+
+Note that four of the nine collisions in the 6-letter code scheme occur in the warbler group, specifically Blackpoll/Blackburnian (BLPOWA/BLBUWA), Black-throated Green/Black-throated Gray (BTGNWA/BTGYWA), Pallas’ Warbler (an old world vagrant to Alaska)/Palm Warbler (PALLWA/PALMWA) and Golden-cheeked/Golden-crowned (GOCWAR/GOCRWA).
